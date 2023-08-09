@@ -22,6 +22,8 @@
 //     React.createElement("h1",{}, "This is sn h1 tag"))
 // );
 
+
+
 const parent = React.createElement("div", {id: "parent"},
        [  React.createElement("div", {id: "child1"},
        [React.createElement("h1",{},"This is an h1 tag"),
@@ -33,6 +35,8 @@ const parent = React.createElement("div", {id: "parent"},
         ])] 
  );
 
+    
+    
     const reading = React.createElement('h1', { id:"heading"}, "Hello world from react js");
 
     const root = ReactDOM.createRoot(document.getElementById('root'));
