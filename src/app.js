@@ -1,3 +1,4 @@
+
 // console.log("namaste react js")
 
 
@@ -44,5 +45,4 @@ const parent = React.createElement("div", {id: "parent"},
     // root.render(reading);
     root.render(parent);
     console.log(reading);
-
 
