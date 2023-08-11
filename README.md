@@ -1,3 +1,7 @@
+
+
+
+
 # ReactNamastejs
 
 -- US-01 branch notes session 01
@@ -47,3 +51,4 @@ ReactElement(Object) => HTML(Browser understands)
 
 -- React is a library of javascript
 -- render method is a displaying to a code or rendering to page
+
